@@ -22,6 +22,7 @@ The app uses a trained **Logistic Regression** model along with a pre-fitted sca
 
 ![Screenshot 1](screenshot1.png)
 ![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
 
 ## Installation and Setup
 
